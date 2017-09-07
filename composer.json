@@ -18,5 +18,7 @@
         "psr-4": {
           "Craftyclicks\\Ukpostcodelookup\\": ""
         }
-    }
+    },
+	"minimum-stability": "stable",
+    "license": "MIT"
 }
